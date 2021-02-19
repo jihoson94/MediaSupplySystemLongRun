@@ -1,0 +1,3 @@
+C:\Users\hardh\source\repos\MediaSupplyTestProgram\MediaSupplyTestProgram\bin\Debug\netcoreapp3.1\MediaSupplyTestProgram.exe
+C:\Users\hardh\source\repos\MediaSupplyTestProgram\MediaSupplyTestProgram\obj\Debug\netcoreapp3.1\MediaSupplyTestProgram.AssemblyInfoInputs.cache
+C:\Users\hardh\source\repos\MediaSupplyTestProgram\MediaSupplyTestProgram\obj\Debug\netcoreapp3.1\MediaSupplyTestProgram.AssemblyInfo.cs
